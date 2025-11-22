@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RogerHanney
-- 👀 After 14 years scaling HOKA in Australia and New Zealand, I’m interested in great solutions.
-- 🌱 I’m currently learning stuff I don't already know.
+- 👀 After 14 years scaling HOKA in Australia and New Zealand, I’m interested in commercial solutions and scaling.
+- 🌱 Interested in learning stuff I don't already know.
 - 💞️ I’m looking to collaborate on commercial problem solving at scale.
 - 📫 How to reach me: https://www.linkedin.com/in/rogerhanney/
 - ⚡ Fun fact: I love stories about Antarctica
